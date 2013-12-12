@@ -1,0 +1,57 @@
+#container {
+	width: 960px;
+	margin: 0 auto 0 auto;
+}
+	
+header {
+	margin-top: 5%;
+	margin-bottom: 2.5%;
+}
+
+h1 {
+	font-size: 300%;
+	font-family: 'Megrim', cursive;
+	text-align: center;
+}
+
+.h2 {
+	font-size: 900%
+	font-family: 'Megrim', cursive;
+}
+
+body {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #87062e;
+}
+/* BODY CLASSES*/
+.home, .about, .contact, .portfolio {
+	background: url(../IMG/blur.jpg) no-repeat center center fixed;
+	background-size: cover;
+	font-size: 1.5em;
+}
+
+p#float {
+	margin-top: 0px;
+	width: 550px;
+}
+
+#text {
+	font-size: 150%;
+	background-color:#fdd3e0;
+	padding-left: 1.5%;
+	padding-bottom: .5%;
+}
+
+.pink {
+	background-color: #fdd3e0;
+}
+
+.two {
+
+}
+
+.container-border {
+	border-bottom: 5px solid white;
+}
